@@ -111,7 +111,8 @@ h6 {
   z-index: 3;
   width: 100%;
   margin: 0 auto;
-  padding-top: 230px;
+  top: 50%;
+  transform: translateY(-50%);
   text-align: center;
 }
 .logo__text {
